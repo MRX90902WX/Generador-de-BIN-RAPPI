@@ -20,5 +20,5 @@ if main == "1":
 elif main == "2":
    system("python chk2.py")
 else:
-   print("\033[1;34m[X]\033[1;31mOPCION INCORRECTA")
+   print("\033[1;34m[X]\033[1;31mOPCIÓN INCORRECTA")
 
