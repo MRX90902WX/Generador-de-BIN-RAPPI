@@ -66,12 +66,6 @@ def dategen():
 
   return date
 
-def ccv_gen():
-  ccv = ""
-  num = randint(10, 999)
-  ccv = "0" + str(num) if num < 100 else str(num)
-  return ccv
-
 
 def main():
   for i in range(int(cantidad)):                
