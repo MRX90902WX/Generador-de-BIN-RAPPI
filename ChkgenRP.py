@@ -1,5 +1,6 @@
 from os import system
 system("clear")
+system("chmod 777 ChkgenRP.py")
 
 print("\033[1;35m    ____  _____   __      ___    ____  ______")
 print("   / __ )/  _/ | / /     /   |  / __ \/ ____/")
